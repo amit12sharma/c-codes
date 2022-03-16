@@ -3,6 +3,7 @@ int main()
   {
     int bs;
     float da,hra,Gs;    
+    printf("Amit\n");
     printf ("Enter Basic Salary Of Ramesh: ");
     scanf("%d",&bs);
     da=(bs*40)/100;
