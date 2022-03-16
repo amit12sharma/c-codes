@@ -14,5 +14,6 @@ void print()
 
 int main()
 {
+    printf("Amit\n");
     return 0;
 }
