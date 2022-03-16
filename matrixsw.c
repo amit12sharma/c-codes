@@ -59,6 +59,7 @@ int main()
   int a[][3] = { {5,6,7}, {8,9,10}, {3,1,2} };
   int b[][3] = { {1,2,3}, {4,5,6}, {7,8,9} };
   int c[3][3];
+  printf("Amit\n");
 
   // print both matrix 
   printf("First Matrix:\n");
