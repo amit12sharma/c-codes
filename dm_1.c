@@ -6,7 +6,7 @@ int main()
     int *arr;
     int limit,i;
     int sum=0;
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter total number of elements: ");
     scanf("%d",&limit);
     arr=(int*)malloc(limit*sizeof(int));
