@@ -5,6 +5,7 @@
  void fretrieve2D(int a[][N]); 
  int main() 
  { 
+      printf("Amit\n");
       int a[M][N];  
       printf("Input Data in Matrix (%d X %d)\n", M, N); 
       fstore2D(a); 
