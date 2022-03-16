@@ -2,7 +2,7 @@
 int main()
 {
    int i,n,sum=0;
-   printf("Aatif\n");
+   printf("Amit\n");
    printf("Input Value of terms : ");
    scanf("%d",&n);
    printf("\nThe first %d natural numbers are:\n",n);
