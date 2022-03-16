@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("Amit\n");
     int a;
     int b;
     int c;
