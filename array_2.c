@@ -4,7 +4,7 @@ int main()
 {
  int Size, i, a[10];
  int Even_Sum = 0, Odd_Sum = 0;
- printf("Aatif\n");
+ printf("Amit\n");
  printf("\n Please Enter the Size of an Array : ");
  scanf("%d", &Size);
  printf("\nPlease Enter the Array Elements\n");
