@@ -4,6 +4,7 @@ void main()
 {
     int x[][3]={{1,2,3},{4,5,6},{7,8,9}};
     int i,j,r,c=3;
+    printf("Amit\n");
     printf("Array element\n");
     r = sizeof(x)/(c*sizeof(int));
     for(i=0;i<r;i++)
