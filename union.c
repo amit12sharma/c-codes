@@ -1,5 +1,5 @@
 // wap to find the size of union and the number of byte reserved for it.
-/*#include <stdio.h>
+#include <stdio.h>
 
 union result
 {
@@ -103,13 +103,14 @@ int main()
 {
     enum month{jan,feb,march,april,may,june,july,august,september,october,november,december};
     int i;
+    printf("Amit\n");
     for(i=jan;i<december;i++)
     {
         printf("%d\n",i);
     }
 
     return 0;
-}*/
+}
 
 //wap to identify the type of entered character whether it is a 
 //letter,digit or other symbol using enumerate datatype
