@@ -3,7 +3,7 @@ int main()
 {
     int x,y;
     int swap(int,int);
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("enter the value of x and y");
     scanf("%d %d",&x,&y);
     swap(x,y);
