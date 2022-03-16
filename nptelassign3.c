@@ -58,6 +58,7 @@ int main()
 
 int main()
 {
+    printf("Amit\n");
     int num,fact=1,fact_index = 2;
     scanf("%d",&num);
 
