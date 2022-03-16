@@ -3,7 +3,7 @@ int main()
 {
     int n, i;
     float num[100], sum = 0.0, avg;
-    printf("Aatif\n");
+    printf("Amit\n");
 
     printf("Enter the numbers of students to add: ");
     scanf("%d", &n);
