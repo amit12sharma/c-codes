@@ -4,7 +4,7 @@ int main()
 {
 	int arr[10], Size, i, Search, Flag, temp = 0;
 
-    printf("Aatif\n");
+    printf("Amit\n");
 	printf("\n Please Enter the size of an array :  ");
 	scanf("%d", &Size);
 
