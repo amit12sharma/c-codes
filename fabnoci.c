@@ -3,7 +3,7 @@
 int main()
 {
     int a, b, c, i, terms;
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter number of terms: ");
     scanf("%d", &terms);
 
