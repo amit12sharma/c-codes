@@ -3,7 +3,7 @@ long int multiplyNumbers(int n);
 int fibonacci(int);
 int main() {
     int n,i;
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter a positive integer:\n");
     scanf("%d",&n);
     printf("Factorial of %d = %ld\n", n, multiplyNumbers(n));
