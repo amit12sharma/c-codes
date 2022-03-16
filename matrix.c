@@ -3,6 +3,7 @@
 int main()
 {
     int X[3][2], i,j,row,col;
+    printf("Amit\n");
     printf("\nenter the elements of array ");
     for(i=0;i<3;i++)
     for(j=0;j<2;j++)
