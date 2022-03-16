@@ -3,6 +3,7 @@
   int main()
  {
       int num,choice,fact=1,i,count=0;
+      printf("Amit\n");
       printf("Press 1 for Factorial of a number");
       printf("\nPress 2 for Prime number or not");
       printf("\nPress 3 for Odd or Even number");
