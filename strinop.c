@@ -7,6 +7,7 @@ void main()
     char name1[100];
     char temp[100];
     int c, n;
+    printf("Amit\n");
     printf("Enter the String:");
     scanf("%s", name);
     printf("\nPress 1 for finding the length of a String");
