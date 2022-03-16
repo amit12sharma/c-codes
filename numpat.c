@@ -4,7 +4,7 @@ int main()
 {
     int rw, c, no=1 ,len;
 
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("\n Enter number of rows : ");
     scanf("%d",&len);
  
