@@ -2,7 +2,7 @@
 int main()
 {
         int i,size;
-        printf("Aatif\n");
+        printf("Amit\n");
         printf("Enter array length:");
         scanf("%d",&size);
 
