@@ -3,7 +3,7 @@ int even_odd(int);
 void main()  
 {  
  int n,flag=0;
- printf("Aatif\n");
+ printf("Amit\n");
  printf("Going to check whether a number is even or odd");  
  printf("\nEnter the number: ");  
  scanf("%d",&n);  
