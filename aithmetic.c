@@ -3,7 +3,7 @@
 int main()
 {
     int a=4,b=5;
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("sum of numbers:%d\n",a+b);
     printf("product of two numbers:%d\n",a*b);
     printf("division of two numbers:%d\n",a/b);
