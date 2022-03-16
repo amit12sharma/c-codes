@@ -4,7 +4,7 @@
 int main()
 {
   int n, i, root;
-  printf("Aatif\n");
+  printf("Amit\n");
   printf("Enter a number:");
   scanf("%d", & n);
 
