@@ -2,6 +2,7 @@
 int main()
 {
    int km,m,f,ih,cm;
+   printf("Amit\n");
    printf("Enter Distance Between Two Cities In Kilometer: ");
    scanf("%d",&km);
    m=km*1000;
