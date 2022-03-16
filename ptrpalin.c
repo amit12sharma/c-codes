@@ -5,7 +5,7 @@ int main()
 {
     char a[20], c;
 
-    printf("Aatif\n");
+    printf("Amit\n");
     puts("enter the string");
     gets(a);
     c = *a;
