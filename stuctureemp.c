@@ -45,6 +45,7 @@ void display(int r)
 int main()
 {
      int n,i,ch;
+     printf("Amit\n");
      printf("/*How Many Employee Record You Want to Add*/\n\nEnter Limit  : ");
      scanf("\n %d",&n);
      for(i=0;i<n;i++)
