@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("\nHello");
     getch();
 }
