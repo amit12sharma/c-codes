@@ -14,7 +14,7 @@ int main(void)
 {
     struct employee emp[100];
     int n, i, key;
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter the number of employees:\n");
     scanf("%d", &n);
     for (i = 0; i < n; i++)
