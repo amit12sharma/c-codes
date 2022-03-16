@@ -4,7 +4,7 @@ int main()
 {
     float principle, time, rate, SI;
     
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter principle (amount): ");
     scanf("%f", &principle);
 
