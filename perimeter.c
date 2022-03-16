@@ -2,7 +2,7 @@
  int main() 
  {
     float r, Area,  Perimeter;
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter the radius of circle");
     scanf("%f",&r); 
     Area = 3.14*r*r; 
