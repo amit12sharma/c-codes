@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int n, rev = 0, remainder;
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter an integer: ");
     scanf("%d", &n);
     while (n != 0) {
