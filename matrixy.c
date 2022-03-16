@@ -18,6 +18,7 @@ void matrices(int *p, int *row, int *col){
 int main()
 {
   int  row = 3, col = 3,i,j, arr[3][3];
+    printf("Amit\n");
     for ( i = 0; i < row; ++i)
     {
         for ( j = 0; j < col;++j)
