@@ -4,6 +4,7 @@
 int main()
 {
     float radius,area;
+    printf("Amit\n");
     printf("Enter the radius of circle:\n");
     scanf("%f",&radius);
     area = PI*radius*radius;
