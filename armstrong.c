@@ -2,7 +2,7 @@
 int main()
 {
     int num,r,temp,sum = 0;
-    printf("Aatif\n");
+    printf("Amitn");
 
     printf("Enter any number to check Armstrong:");
     scanf("%d",&num);
