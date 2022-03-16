@@ -15,7 +15,7 @@ int main()
     struct student arr_student[MAX];
     int i, j;
     float sum = 0;
-    printf("Aatif\n");
+    printf("Amit\n");
 
     for(i = 0; i < MAX; i++ )
     {
