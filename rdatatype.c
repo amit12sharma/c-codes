@@ -15,7 +15,7 @@ void printSignedRange(int bytes)
 int main()  
 {  
     /* print the range of integer type */
-    printf("Aatif\n");  
+    printf("Amit\n");  
     printf("Range of int =");  
     printSignedRange(sizeof(int));
     printf("Range of unsigned int =");  
