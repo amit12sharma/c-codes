@@ -3,7 +3,7 @@
 int main()
 {
     int a,b,c,ch;
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter the values of a&b:");
     scanf("%d%d",&a,&b);
     printf("Airthmetic operations");
