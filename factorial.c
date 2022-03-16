@@ -2,7 +2,7 @@
 int main()    
 {    
  int i,fact=1,number;
- printf("Aatif\n");   
+ printf("Amit\n");   
  printf("Enter a number: ");    
   scanf("%d",&number);    
     for(i=1;i<=number;i++){    
