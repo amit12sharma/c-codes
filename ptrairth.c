@@ -2,6 +2,7 @@
 void main()
 {
 int no1,no2,*ptr1,*ptr2,result;
+  printf("Amit\n");
 printf("Enter no1:");
 scanf("%d",&no1);
 printf("\nEnter no2:");
