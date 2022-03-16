@@ -7,6 +7,7 @@ struct student{
 };
 int main(){
    int i;
+   printf("Amit\n");
    struct student record[2];
    record[0].id=1;
    strcpy(record[0].name, "Aniket");
