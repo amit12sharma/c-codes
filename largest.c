@@ -7,7 +7,7 @@
 int main()
 {
     int num1, num2;
-
+    printf("Amit\n");
     printf("Enter any two number to check max and min: ");
     scanf("%d%d", &num1, &num2);
 
