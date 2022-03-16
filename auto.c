@@ -16,7 +16,7 @@ int main()
 {
     int a,b;
     auto int s=sum(3,4);
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("%d",s);
     return 0;
 }
