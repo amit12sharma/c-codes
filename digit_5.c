@@ -2,6 +2,7 @@
   int main()
  {
     float bs,gs,da,hra;
+    printf("Amit\n");
     printf("Enter Basic Salary: ");
     scanf("%f",&bs);
     if(bs<1500)
