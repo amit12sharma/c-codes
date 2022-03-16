@@ -3,7 +3,7 @@
 int main()
 {
     char name[5][21],i=0,j;
- 
+    printf("Amit\n");
     printf("Enter name of five people\n");
     for(i=0;i<5;i++)
     {
