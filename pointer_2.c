@@ -4,6 +4,7 @@ void main()
 {
     int a=34;
     int *ptr=&a;
+    printf("Amit\n");
     printf("Address of a %d\n",ptr);
     printf("Address of a %d\n",ptr+1);
     printf("Address of a %d\n",ptr+2);
