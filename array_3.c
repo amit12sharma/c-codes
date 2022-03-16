@@ -9,6 +9,7 @@ int main()
         else
         odd[b++]=i;
     }
+    printf("Amit\n");
     printf("\n\tEVEN \tODD");
     for(i=0;i<=5;i++)
     {
