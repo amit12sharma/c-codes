@@ -4,6 +4,7 @@ void main()
 {
     int arr[]={1,2,3,4,5,6};
     int *ptr=&arr;
+    printf("Amit\n");
     printf("Value of position %d\n",arr[2]);
     printf("Value of position %d\n",&arr[2]);
     printf("Value of position %d\n",&arr[2]+1);
