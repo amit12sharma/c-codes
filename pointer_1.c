@@ -7,7 +7,7 @@ void main()
     char arr[]={5,6,4};
 
     int*ptr = ar;
-    printf("Aatif\n");
+    printf("Amit\n");
 
     printf("Address of a %d\n",&ar[0]);
     printf("Address of a1 %d\n",&ar[1]);
