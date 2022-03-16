@@ -16,7 +16,7 @@ main(void)
 {                                                                                  
         struct named_file f[3];                                                    
         int n;                                                                     
-                                                                                   
+        printf("Amit\n");                                                                           
         f[0].name = "NUMBER.txt";                                                  
         f[1].name = "EVEN.txt";                                                    
         f[2].name = "ODD.txt";                                                     
