@@ -3,7 +3,7 @@ void msg();
 
 void msg()                                               
 {
-printf("Aatif\n");
+printf("Amit\n");
 printf("Good Morning!\n");
 printf("Good Afternoon!");
 }
