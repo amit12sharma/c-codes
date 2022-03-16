@@ -5,7 +5,7 @@ int main()
 
     int no1, no2, *ptr1, *ptr2, result;
 
-    printf("Aatif\n");
+    printf("Amit\n");
     printf("Enter no1:");
     scanf("%d", &no1);
 
