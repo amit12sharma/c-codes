@@ -9,6 +9,7 @@
         {
              struct student s[10];
              int i,total=0;
+             printf("Amit\n");       
              for(i=0;i<=2;i++)
                  {
                         printf("\nEnter Marks in Three Subjects = ");
