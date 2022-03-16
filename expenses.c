@@ -4,6 +4,7 @@
 {
    int quantity;
    float price,totalexpenses;
+    printf("Amit\n");
    printf("Enter The Quantity Purchased: ");
    scanf("%d",&quantity);
    printf("\nEnter The Price Per Item:");
