@@ -3,7 +3,7 @@
 void main()
 {
     int r;
-    printf("Aatif\n");
+    printf("Amit\n");
 #undef wait getche();
     wait();
     for (r = 1; r <= 5; r++)
